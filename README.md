@@ -13,7 +13,7 @@ This is an event management application that allows users to perform CRUD operat
 - ReactJS (v17 or later)
 ## Project Setup
 1. **Clone the repository:**
-   git clone `git@github.com:sami7x/Event-Managment-App.git`
+   `git clone git@github.com:sami7x/Event-Managment-App.git`
 ## Backend Setup
 1. **Navigate to the backend directory:**
    cd server
