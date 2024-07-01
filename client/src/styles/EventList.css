@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .event-list-container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-list-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .event-list-container button,
+  .event-list-container input,
+  .event-list-container select {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  .event-list-container .logout:hover{
+    background-color: rgb(181, 7, 7);
+  }
+  
+  .event-list-container button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .event-list-container .delete {
+    background-color: red ;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .event-list-container .delete:hover {
+    background-color: rgb(232, 48, 48) ;
+  }
+
+  .event-list-container .edit {
+    background-color: rgb(14, 181, 14);
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .event-list-container .edit:hover {
+    background-color: rgb(19, 205, 19) ;
+  }
+  
+  .event-list-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .event-list-container a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .event-list-container a:hover {
+    color: #0056b3;
+  }
+  
+  .event-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .event-list-container table th,
+  .event-list-container table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .event-list-container table th {
+    background-color: #f4f4f4;
+  }
+  
+  .event-list-container table td {
+    background-color: #fff;
+  }
+  
+  .event-list-container table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .filter-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container label {
+    margin-right: 10px;
+  }
+  
+  .action-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+  }
+  

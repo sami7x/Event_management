@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c173bba9-9e75-41aa-a478-61209b2c4167",
+    "title": "CodeFest 2024 Hackathon",
+    "description": "Join us for an intense coding competition where teams will develop innovative solutions to real-world challenges.",
+    "category": "Hackathon",
+    "venue": "Bhirkutimandap",
+    "capacity": "200",
+    "speakerPerformer": "Opening remarks by industry leaders",
+    "totalNumberOfParticipants": "200",
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-04"
+  },
+  {
+    "id": "c4416c4a-b205-482d-8f81-8e9e8d8549c9",
+    "title": "Annual Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking opportunities focused on emerging technologies.",
+    "category": "Technology Conference",
+    "venue": "Hotel Yak and Yeti",
+    "capacity": "500",
+    "speakerPerformer": "Keynote speakers from leading tech companies",
+    "totalNumberOfParticipants": "450",
+    "startDate": "2024-06-29",
+    "endDate": "2024-06-29"
+  },
+  {
+    "id": "79862ec0-8ee7-44ef-b688-f5948ddf45cd",
+    "title": "Durbar Marg Summer Street Fest 2024",
+    "description": "Experience an unforgettable night of live music with top artists and bands performing their greatest hits.",
+    "category": "Concert",
+    "venue": "Durbar Marg",
+    "capacity": "3000",
+    "speakerPerformer": "The Axis Band, John and the locals ",
+    "totalNumberOfParticipants": "3000",
+    "startDate": "2024-06-30",
+    "endDate": "2024-06-30"
+  }
+]
