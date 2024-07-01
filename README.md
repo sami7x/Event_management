@@ -1,4 +1,4 @@
-# YIPL Event Management Application
+# Event Management Application
 ## Overview
 This is an event management application that allows users to perform CRUD operations on events. The application is built using NodeJS for the backend and ReactJS for the frontend. The event data is stored in a JSON file instead of a database. The application includes both client-side and server-side validation and allows filtering of events by title, start date, and end date. Additionally, authentication is implemented to ensure that only authenticated users can perform CRUD operations.
 ## Features
